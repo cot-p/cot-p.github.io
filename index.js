@@ -58,10 +58,11 @@ addTile('8:00 to 9:00', 1, 0, 1, 'time');
 addTile('9:00 to 10:00', 2, 0, 1, 'time');
 addTile('10:00 to 11:00', 3, 0, 1, 'time');
 addTile('11:00 to 12:00', 4, 0, 1, 'time');
-addTile('13:00 to 14:00', 5, 0, 1, 'time');
-addTile('14:00 to 15:00', 6, 0, 1, 'time');
-addTile('15:00 to 16:00', 7, 0, 1, 'time');
-addTile('16:00 to 17:00', 8, 0, 1, 'time');
+addTile('12:00 to 13:00', 5, 0, 1, 'time');
+addTile('13:00 to 14:00', 6, 0, 1, 'time');
+addTile('14:00 to 15:00', 7, 0, 1, 'time');
+addTile('15:00 to 16:00', 8, 0, 1, 'time');
+addTile('16:00 to 17:00', 9, 0, 1, 'time');
 
 addTile('Environmental Engineering And Disasters', 1, 3, 1 , 'class');
 addTile('Environmental Engineering And Disasters', 1, 4, 1 , 'class');
@@ -86,7 +87,7 @@ addTile('Semiconductor Physics', 4, 6, 1 , 'class');
 
 addTile('Calculus & Differential Equations Tutorial', 5, 3, 1 , 'class');
 
-addTile('Semiconductor Physics Practical', 7, 2, 2, 'class');
-addTile('Workshop Practices', 7, 3, 2, 'class');
-addTile('English Practical', 7, 4, 2, 'class');
-addTile('Workshop Practices', 7, 5, 2, 'class');
+addTile('Semiconductor Physics Practical', 8, 2, 2, 'class');
+addTile('Workshop Practices', 8, 3, 2, 'class');
+addTile('English Practical', 8, 4, 2, 'class');
+addTile('Workshop Practices', 8, 5, 2, 'class');
