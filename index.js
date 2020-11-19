@@ -77,7 +77,7 @@ addTile('English', 2, 6, 1 , 'class');
 addTile('Calculus & Differential Equations', 3, 1, 1 , 'class');
 addTile('Calculus & Differential Equations', 3, 2, 1 , 'class');
 addTile('Semiconductor Physics Tutorial', 3, 3, 1 , 'class');
-addTile('Engineering Graphics & Design', 3, 5, 1 , 'class');
+addTile('Engineering Graphics & Design', 3, 4, 1 , 'class');
 addTile('Calculus & Differential Equations', 3, 6, 1 , 'class');
 
 addTile('Calculus & Differential Equations', 4, 1, 2, 'class');
