@@ -7,7 +7,8 @@
 }
 
 .tileClass {
-    font-family: 'Roboto Light';
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
     font-size: 14px;
     padding: 8px 8px 8px 8px;
     background-color: white;
@@ -17,7 +18,8 @@
     box-shadow: 0 1.5px 3px rgba(0,0,0,0.16), 0 1.5px 3px rgba(0,0,0,0.23);
 }
 .tileTime {
-    font-family: 'Roboto Light';
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
     font-size: 18px;
     padding: 8px 8px 8px 8px;
     background-color: white;
@@ -30,7 +32,8 @@
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 .tileHead {
-    font-family: 'Roboto Light';
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
     font-size: 14px;
     padding: 8px 8px 8px 8px;
     background-color: #6200EA;
@@ -42,7 +45,8 @@
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 .tileDay {
-    font-family: 'Roboto Light';
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
     font-size: 16px;
     padding: 8px 8px 8px 8px;
     background-color: white;
