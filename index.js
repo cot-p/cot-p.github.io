@@ -2,9 +2,13 @@
 ///   See lectures.js for more information.
 
 let main = document.getElementById('main');
+let margin = 16 + 8;
+
+setInterval(() => {
+    main.style.zoom = `${(innerHeight - margin) / (margin + (48 + margin) * 7)}`;
+}, 100);
 
 function addTile(content, x, y, xSpan, type = 'class') {
-    let margin = 16 + 8;
     let tile = document.createElement('div');
     if (type === 'class') {
         tile.className = 'tileClass';

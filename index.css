@@ -1,7 +1,6 @@
 #main {
-    overflow-y: scroll;
+    overflow-y: hidden;
     overflow-x: scroll;
-    zoom: 1.8;
     background-color: #F5F5F5;
     scroll-padding: 24px;
 }
