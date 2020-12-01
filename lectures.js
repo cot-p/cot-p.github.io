@@ -30,7 +30,7 @@ addLecture('Semiconductor Physics', 2, 3, 1);
 addLecture('Engineering Graphics & Design', 2, 4, 1);
 addLecture('Calculus & Differential Equations', 2, 6, 1);
 addLecture('Engineering Graphics & Design', 3, 1, 2);
-addLecture('Calculus & Differential Equations', 3, 2, 2);
+addLecture('Engineering Graphics & Design', 3, 2, 2);
 addLecture('Semiconductor Physics Tutorial', 3, 3, 1);
 addLecture('Semiconductor Physics', 3, 6, 1);
 addLecture('Calculus & Differential Equations Tutorial', 4, 3, 1);
