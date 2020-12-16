@@ -20,22 +20,22 @@ addTime('16:00 to 17:00');
 addTime('17:00 to 18:00');
 
 //   ✅ Add various lectures into the time-table grid.
-addLecture('Calculus & Differential Equations', 1, 3, 1);
+addLecture('Calculus & Differential Equations', 1, 3, 2);
 addLecture('English', 2, 2, 1);
 addLecture('Calculus & Differential Equations', 2, 3, 1);
 addLecture('Workshop Practices', 2, 4, 1);
 addLecture('Semiconductor Physics', 2, 5, 1);
 addLecture('English', 2, 6, 1);
-addLecture('Calculus & Differential Equations', 3, 1, 1);
-addLecture('Calculus & Differential Equations', 3, 2, 1);
+addLecture('Calculus & Differential Equations', 3, 1, 2);
 addLecture('Semiconductor Physics', 3, 3, 1);
 addLecture('Engineering Graphics & Design', 3, 4, 1);
 addLecture('Calculus & Differential Equations', 3, 6, 1);
 addLecture('Engineering Graphics & Design', 4, 1, 2);
 addLecture('Engineering Graphics & Design', 4, 2, 2);
-addLecture('Semiconductor Physics Tutorial', 4, 3, 1);
+addLecture('*Semiconductor Physics Tutorial', 4, 3, 1);
 addLecture('Semiconductor Physics', 4, 6, 1);
 addLecture('Calculus & Differential Equations Tutorial', 5, 3, 1);
+addLecture('Semiconductor Physics Tutorial', 7, 4, 1);
 addLecture('Semiconductor Physics Practical', 8, 2, 2);
 addLecture('Workshop Practices', 8, 3, 2);
 addLecture('English Practical', 8, 4, 2);
