@@ -1,13 +1,5 @@
-//   📖 README
-//   Call [setTitle] method here to set the time-table title.
-//   Call [addLecture] methods here to add lectures into the time-table grid.
-//   Call [addTime] methods here to add lecture timings into the time-table grid.
-
-
-//   ✅ Set time-table title.
 setTitle('Electronics & Communication')
 
-//   ✅ Add lecture timings.
 addTime('8:00 to 9:00');
 addTime('9:00 to 10:00');
 addTime('10:00 to 11:00');
@@ -19,7 +11,6 @@ addTime('15:00 to 16:00');
 addTime('16:00 to 17:00');
 addTime('17:00 to 18:00');
 
-//   ✅ Add various lectures into the time-table grid.
 addLecture('Calculus & Differential Equations', 1, 3, 2);
 addLecture('English', 2, 2, 1);
 addLecture('Workshop Practices', 2, 4, 1);
