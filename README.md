@@ -1,5 +1,5 @@
 # College of Technology, Pantnagar
-#### Time Table
+### Time Table
 - [Information Technology](https://cot-p.github.io/it)
 - [Electronics And Communication](https://cot-p.github.io/ece)
 
