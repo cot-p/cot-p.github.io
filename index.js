@@ -1,12 +1,9 @@
-///   Internal JavaScript.
-///   See lectures.js for more information.
-
 let main = document.getElementById('main');
 let margin = 16 + 8;
 
 setInterval(() => {
-    main.style.zoom = `${(innerHeight - margin) / (margin + (48 + margin) * 7)}`;
-}, 100);
+    main.style.transform = `scale(${(innerHeight - margin) / (margin + (48 + margin) * 7)})`;
+}, 1000);
 
 function addTile(content, x, y, xSpan, type = 'class') {
     let tile = document.createElement('div');
