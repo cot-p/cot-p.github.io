@@ -14,20 +14,21 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-size: 10px;
-    color: #6200EA;
+    color: #F50057;
 }
 
 #main {
     overflow-y: hidden;
     overflow-x: scroll;
     background-color: #F5F5F5;
-    transition-duration: 800ms;
+    transition-duration: 400ms;
     transition-property: all;
     transition-timing-function: ease-in-out;
     transform: scale(4.0);
     transform-origin: 0px 0px;
     position: absolute;
     top: 0px 0px;
+    background-image: url('./background.jpg');
 }
 
 .tileClass {
@@ -35,7 +36,7 @@
     font-weight: 300;
     font-size: 14px;
     padding: 8px 8px 8px 8px;
-    background-color: white;
+    background-color: rgba(256, 256, 256, 0.6);
     margin: 16px 16px 16px 16px;
     color: rgba(0, 0, 0, 0.87);
     border-radius: 2px;
@@ -46,10 +47,10 @@
     font-weight: 300;
     font-size: 18px;
     padding: 8px 8px 8px 8px;
-    background-color: white;
+    background-color: rgba(256, 256, 256, 0.8);
     margin: 16px 16px 16px 16px;
     color: rgba(0, 0, 0, 0.54);
-    border-radius: 2px;
+    border-radius: 4px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -60,7 +61,7 @@
     font-weight: 300;
     font-size: 14px;
     padding: 8px 8px 8px 8px;
-    background-color: #6200EA;
+    background-color: rgba(0, 0, 0, 0.6);
     margin: 16px 16px 16px 16px;
     color: rgba(256, 256, 256, 0.87);
     display: flex;
@@ -73,11 +74,11 @@
     font-weight: 300;
     font-size: 16px;
     padding: 8px 8px 8px 8px;
-    background-color: white;
+    background-color: rgba(256, 256, 256, 0.6);
     margin: 16px 16px 16px 16px;
     display: flex;
     align-items: center;
-    color: #6200EA;
+    color: #F50057;    ;
     border-radius: 2px;
     box-shadow: 0 1.5px 3px rgba(0,0,0,0.16), 0 1.5px 3px rgba(0,0,0,0.23);
 }

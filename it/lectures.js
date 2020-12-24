@@ -11,7 +11,7 @@ addTime('15:00 to 16:00');
 addTime('16:00 to 17:00');
 addTime('17:00 to 18:00');
 
-addLecture('Environmental Engineering', 1, 1, 1)
+addLecture('Environmental Engineering And Disasters', 1, 1, 1)
 addLecture('Chemistry', 2, 1, 1)
 addLecture('Programming For Problem Solving', 3, 1, 1)
 addLecture('Basic Electrical Engineering (Tutorial)', 4, 1, 1)
@@ -31,8 +31,8 @@ addLecture('Programming For Problem Solving', 2, 4, 1)
 addLecture('Calculus & Linear Algebra', 5, 4, 1)
 addLecture('Basic Electrical Engineering (Lab)', 8, 4, 2)
 
-addLecture('Environmental Engineering', 1, 5, 1)
+addLecture('Environmental Engineering And Disasters', 1, 5, 1)
 addLecture('Programming For Problem Solving', 2, 5, 1)
 
-addLecture('Environmental Engineering', 1, 6, 1)
+addLecture('Environmental Engineering And Disasters', 1, 6, 1)
 addLecture('Basic Electrical Engineering', 2, 6, 1)
