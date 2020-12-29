@@ -21,7 +21,7 @@ addLecture('Chemistry', 2, 2, 1)
 addLecture('Basic Electrical Engineering', 3, 2, 1)
 addLecture('Programming For Problem Solving (Lab)', 4, 2, 2)
 
-addLecture('Calculus & Linear Algebra (Tutorial)', 2, 3, 1)
+addLecture('Calculus & Linear Algebra', 2, 3, 1)
 addLecture('Basic Electrical Engineering', 3, 3, 1)
 addLecture('Calculus & Linear Algebra (Tutorial)', 4, 3, 1)
 addLecture('Chemistry (Lab)', 7, 3, 3)
