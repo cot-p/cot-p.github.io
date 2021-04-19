@@ -11,6 +11,6 @@ addTime('16:00 to 17:00');
 addTime('17:00 to 18:00');
 
 addLecture('Waves, Optics & Quantum Mechanics', 1, 1, 1);
-addLecture('Multivariable Calculus & Differential Equations', 2, 1, 1);
-addLecture('Engineering Drawing', 3, 1, 1);
-addLecture('Engineering Drawing', 8, 1, 2);
+addLecture('Multivariable Calculus', 2, 1, 1);
+addLecture('Engineering Graphics and Design', 3, 1, 1);
+addLecture('Engineering Graphics and Design', 7, 1, 2);
