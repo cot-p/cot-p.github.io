@@ -25,5 +25,8 @@ addLecture('Programming for problem solving', 3, 6, 1);
 addLecture('Basic EE Lecture', 4, 1, 1);
 addLecture('Basic EE Lecture', 4, 4, 1);
 addLecture('Chemistry', 4, 6, 1);
+addLecture('Programming for problem solving lecture', 5, 1, 1);
+addLecture('Programming for problem solving lecture', 5, 4, 1);
+addLecture('Basic EE Lecture', 5, 6, 1);
 addLecture('Programming for problem solving', 8, 1, 2);
 addLecture('Basic EE Tutorial', 8, 2, 1);
