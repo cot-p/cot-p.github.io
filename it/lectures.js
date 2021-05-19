@@ -13,7 +13,7 @@ addLecture('Multivariable Calculus', 2, 1, 1);
 addLecture('Engineering Graphics and Design', 3, 1, 1);
 addLecture('Engineering Graphics and Design', 7, 1, 2);
 // Tuesday
-addLecture('Engineering Graphics and Design', 3, 2, 2);
+addLecture('Engineering Graphics and Design', 1, 2, 2);
 addLecture('Workshop Practices', 7, 2, 2);
 // Wednesday
 addLecture('Waves, Optics & Quantum Mechanics', 1, 3, 1);
@@ -24,7 +24,6 @@ addLecture('English', 7, 3, 2);
 addLecture('Workshop Practices', 1, 4, 1);
 addLecture('Multivariable Calculus', 2, 4, 1);
 addLecture('Waves, Optics & Quantum Mechanics (T)', 3, 4, 1);
-addLecture('Multivariable Calculus (T)', 4, 4, 1);
 addLecture('Workshop Practices', 7, 4, 2);
 // Friday
 addLecture('Waves, Optics & Quantum Mechanics', 1, 5, 2);
@@ -34,3 +33,4 @@ addLecture('Multivariable Calculus', 4, 5, 1);
 addLecture('Waves, Optics & Quantum Mechanics', 1, 6, 1);
 addLecture('English', 2, 6, 1);
 addLecture('Industrial Sociology', 3, 6, 1);
+addLecture('Multivariable Calculus (T)', 4, 6, 1);
